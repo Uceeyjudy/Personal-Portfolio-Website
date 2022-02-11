@@ -90,6 +90,9 @@
   h2 {
     font-size: 4.2rem;
   }
+  .projects-section-header{
+    color: #570ba3;
+  }
   
   ul {
     list-style: none;
