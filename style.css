@@ -90,10 +90,6 @@
   h2 {
     font-size: 4.2rem;
   }
-  .projects-section-header{
-    color: #570ba3;
-  }
-  
   ul {
     list-style: none;
   }
@@ -179,6 +175,7 @@
     max-width: 640px;
     margin: 0 auto 6rem auto;
     border-bottom: 0.2rem solid var(--main-white);
+    color: #570ba3;
   }
   
   @media (max-width: 28.75em) {
