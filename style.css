@@ -155,7 +155,12 @@
     background-color: thistle;
     background-image: linear-gradient(62deg, #04223f 0%, #570ba3 100%);
   }
-  
+  .w3-wide, .w3-padding, .w3-dark-grey{
+    color: darkblue;
+  }
+  .w3-dark-grey{
+    background-color: grey;
+  }
   .welcome-section > p {
     font-size: 3rem;
     font-weight: 200;
